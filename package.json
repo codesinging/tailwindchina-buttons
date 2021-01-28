@@ -1,11 +1,12 @@
 {
-  "name": "@tailwindchina/tailwindcss-button",
+  "name": "@tailwindchina/tailwindcss-buttons",
   "version": "0.1.0",
+  "description": "A TailwindCSS plugin that provides a set of button components based on the TailwindCSS palette.",
   "main": "src/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tailwindchina/tailwindcss-button.git"
+    "url": "git+https://github.com/tailwindchina/tailwindcss-buttons.git"
   },
   "author": "codesinging(https://github.com/codesinging)",
   "dependencies": {
