@@ -1,4 +1,4 @@
-# @tailwindchina/tailwindcss-buttons
+# tailwindchina-buttons
 
 A TailwindCSS plugin that provides a set of button components based on the TailwindCSS palette.
 
