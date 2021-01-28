@@ -1,0 +1,16 @@
+{
+  "name": "@tailwindchina/tailwindcss-button",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailwindchina/tailwindcss-button.git"
+  },
+  "author": "codesinging(https://github.com/codesinging)",
+  "dependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  }
+}
