@@ -2,6 +2,8 @@
 
 A TailwindCSS plugin that provides a set of button components based on the TailwindCSS palette.
 
+![tailwindchina-buttons](https://tva1.sinaimg.cn/large/008eGmZEly1gn3so5hkf5j31ms080q47.jpg)
+
 ## Installation
 
 Install the plugin from npm:
