@@ -1,5 +1,5 @@
 {
-  "name": "tailwindchina-ui-buttons",
+  "name": "tailwindchina-buttons",
   "version": "1.0.4",
   "description": "A TailwindCSS plugin that provides a set of button components based on the TailwindCSS palette.",
   "main": "src/index.js",
